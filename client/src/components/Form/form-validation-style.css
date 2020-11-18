@@ -1,0 +1,25 @@
+
+
+
+#post-form .error {
+    border-color: "red";
+}
+
+#post-form .input-feedback {
+    color: "red";
+    font-size: 0.7rem;
+    margin-top: 0.1rem;
+}
+
+#post-form .disabled-btn {
+    opacity: 0.6;
+    cursor: not-allowed;
+    /* background: cornsilk; */
+    /* color: black; */
+}
+/* #post-form .enabled-btn {
+    background: cadetblue;
+    color: black;
+    cursor: pointer;
+} */
+
