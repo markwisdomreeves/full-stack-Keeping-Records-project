@@ -1,10 +1,9 @@
 
-### This is a Full Stack Recording Dates / Memories Application. 
+### This is a Full Stack Records Keeping Application. 
 #### This Application allow you to Create, Read, Edit and Delete dating a record or your first date or other memories in the past.
 
 #### This is a Full Stack Application that was built with React.js, Node.js, Express.js, Redux, Mongodb and JsonWebToken. 
-#### I spent lot of time researching on google to build this project and I learned a lot of skills and ideas from building this project. 
-#### It toke me three weeks to complete this project.
+#### I spent lot of time researching on google to build this project and I have learned a lot of skills and great ideas from building this project. 
 
 #### TO RUN THIS PROJECT: Firstly, you need to be in the parent folder of the project and then run npm install to install all dependences and dev dependences for the backend
 #### NEXT, enter into the client folder and also run npm install all dependences and dev dependences for the for the frontend or client
