@@ -69,7 +69,7 @@ const Form = ({ currentId, setCurrentId }) => {
         <Paper className={classes.paper}>
             <form id="post-form" onSubmit={handleSubmit} autoComplete="off" noValidate 
              className={`${classes.root} ${classes.form}`}>
-              <Typography style={{ fontSize: 14 }} >{currentId ? `Editing "${post.title}"` : 'Creating a Dates'}</Typography>
+              <Typography style={{ fontSize: 14 }} >{currentId ? `Editing "${post.title}"` : 'Creating a Record'}</Typography>
                 <TextField
                   name="creator"  
                   label="Creator"
