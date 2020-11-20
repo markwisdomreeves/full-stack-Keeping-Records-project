@@ -1,8 +1,8 @@
 
 ### This is a Full Stack Records Keeping Application. 
-#### This Application allow you to Create, Read, Edit and Delete dating a record or your first date or other memories in the past.
+#### This Application allow you to Create, Read, Update and Delete a record from the mongodb Database.
 
-#### This is a Full Stack Application that was built with React.js, Node.js, Express.js, Redux, Mongodb and JsonWebToken. 
+#### This is a Full Stack Application that was built with React.js, Node.js, Express.js, Redux and Mongodb. 
 #### I spent one month during research and googling to build this project and I have learned a lot of new skills and great ideas from building this project. 
 
 #### TO RUN THIS PROJECT: Firstly, you need to be in the parent folder of the project and then run npm install to install all dependences and dev dependences for the backend
