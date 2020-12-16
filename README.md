@@ -1,6 +1,6 @@
 
 ### This is a Full Stack Records Keeping Application. 
-#### This Application allow you to Create, Read, Update and Delete a record from the mongodb Database.
+#### This Application allows you to Create, Read, Update and Delete a record from the mongodb Database.
 
 #### This is a Full Stack Application that was built with React.js, Node.js, Express.js, Redux and Mongodb. 
 #### I have learned a lot of new skills from building this project. 
