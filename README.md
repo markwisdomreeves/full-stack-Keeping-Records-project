@@ -2,8 +2,8 @@
 ### This is a Full Stack Records Keeping Application. 
 #### This Application allows you to Create, Read, Update and Delete a record from the mongodb Database.
 
-#### This is a Full Stack Application that was built with React.js, Node.js, Express.js, Redux and Mongodb. 
-#### I have learned a lot of new skills from building this project. 
+#### This is a Full Stack EVENTS AND RECODRDS KEEPING Application that was built with React.js, Node.js, Express.js, Redux and Mongodb. 
+#### TO BUILD AND COMPLETE THIS PROJECT, IT TOKE ME THREE WEEKS TO BUILD THIS PROJECT AND IT HAS HELPED ME TO DO A LOT OF RESOURSES ON THE INTERNET. IT HAS HELPED ME TO LEARNED A LOT A GREAT IDEAS IN BUILDING A MERN STACK PROJECT. 
 
 #### TO RUN THE PROJECT: First, go into the parent folder of the project and then run npm install. This command will install all the dependences and dev dependences for the backend.
 #### NEXT, in the parent folder, enter into the client folder and run npm install. This will install all dependences and dev dependences for the for the frontend or client.
